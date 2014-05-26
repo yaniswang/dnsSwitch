@@ -35,4 +35,3 @@ Thanks
 ================
 
 * GitHub: [https://github.com/](https://github.com/)
-* CodeMirror: [http://codemirror.net/](http://codemirror.net/)
