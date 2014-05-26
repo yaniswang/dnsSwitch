@@ -1,0 +1,1 @@
+adt -package -tsa none -storetype pkcs12 -keystore cert.pfx -storepass dnsswitch -target native dnsSwitch.exe app.xml index.html js icons ext
